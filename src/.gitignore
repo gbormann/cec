@@ -1,6 +1,7 @@
 /.deps/
 Makefile
 *.o
+*.txt
 AST.sh
 cec
 cec-astgrc
